@@ -4,6 +4,11 @@ header{
     color: white;
 }
 
+ul{
+    list-style-type: none;
+    
+}
+
 .jumbotron{
     background-color: #1abc9c;
     color: white;
